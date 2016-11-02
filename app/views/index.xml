@@ -1,0 +1,18 @@
+<Alloy>
+
+
+            <Window title="Team Titanium" id="win123">
+                <TableView>
+                    <HeaderView>
+                        <View backgroundColor="#a00" height="50dp"/>
+                    </HeaderView>
+                    <FooterView>
+                        <View backgroundColor="#0a0" height="50dp"/>
+                    </FooterView>
+                    <TableViewRow id="itemsList123" onClick="showItems123"><Label>rahul</Label></TableViewRow>
+
+                </TableView>
+            </Window>
+
+
+</Alloy>

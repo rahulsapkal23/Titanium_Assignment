@@ -1,0 +1,22 @@
+".container": {
+	backgroundColor:"yellow",
+  layout: "vertical"
+},
+"#itemName" :{
+  height: Ti.UI.SIZE,
+  left: 0
+},
+"#rowId":{
+  height: Ti.UI.SIZE,
+  left: 0
+}
+"#closebtn":{
+  height: Ti.UI.SIZE,
+  width: Ti.UI.SIZE
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "black"
+}
