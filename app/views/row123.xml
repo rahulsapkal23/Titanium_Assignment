@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container" id="win123">
+
+		<TableView id="tableview12">
+			
+
+				<TableViewRow id="itemsList12"><Label id="label12"></Label></TableViewRow>
+
+		</TableView>
+
+	</Window>
+</Alloy>

@@ -1,15 +1,14 @@
 <Alloy>
 
-
             <Window title="Team Titanium" id="win123">
-                <TableView>
+                <TableView id="tableview123">
                     <HeaderView>
                         <View backgroundColor="#a00" height="50dp"/>
                     </HeaderView>
                     <FooterView>
                         <View backgroundColor="#0a0" height="50dp"/>
                     </FooterView>
-                    <TableViewRow id="itemsList123" onClick="showItems123"><Label>rahul</Label></TableViewRow>
+                    <TableViewRow id="itemsList123" onClick="showItems123"></TableViewRow>
 
                 </TableView>
             </Window>
