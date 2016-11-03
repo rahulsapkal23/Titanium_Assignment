@@ -1,0 +1,4 @@
+<Alloy>
+			<TableViewRow backgroundColor="lime" id="row" rowId="123" itemName="rahul"><Label id="lab">123</Label></TableViewRow>
+	<!-- <TableViewRow ><Label>1234</Label></TableViewRow> -->
+</Alloy>

@@ -1,0 +1,12 @@
+var args =arguments[0] || {};
+  Ti.API.info(JSON.stringify(args));
+   Ti.API.info("before"+$.row.rowId);
+$.row.rowId=args.rowId;
+ Ti.API.info("after"+$.row.rowId);
+$.row.itemName=args.itemName;
+$.row.text=args.itemName;
+Ti.API.info($.row.text);
+//Ti.API.info($.row.itemName);
+$.lab.text=args.itemName;
+//Ti.API.info($.lab.text);
+  Ti.API.info('hiiii123');

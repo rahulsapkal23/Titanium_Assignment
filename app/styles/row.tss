@@ -1,0 +1,9 @@
+"#row": {
+height:50,
+backgroundColor: "pink",
+	}
+
+	"#lab": {
+height: Ti.UI.SIZE,
+	color: "red"
+		}
