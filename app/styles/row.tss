@@ -1,6 +1,6 @@
 "#row": {
 height:50,
-backgroundColor: "pink",
+backgroundColor: "lime",
 	}
 
 	"#lab": {

@@ -1,8 +1,9 @@
 <Alloy>
 
             <Window title="Team Titanium" id="win123">
-                <TableView backgroundColor="blue" id="itemsList123" onClick="showItems123">
+                <TableView id="itemsList123" onClick="showItems123">
                 </TableView>
+                <!-- <ListView id="itemsList123" onClick="showItems123">></ListView> -->
             </Window>
 
 

@@ -20,7 +20,7 @@ $.itemsList123.data=rowData;
 $.win123.open();
 
 function showItems123(e) {
-  // Ti.API.info(JSON.stringify(e));
+  Ti.API.info(JSON.stringify(e));
 
   var payload1={
     rowId:e.row.rowId,

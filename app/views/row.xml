@@ -1,4 +1,7 @@
 <Alloy>
-			<TableViewRow backgroundColor="lime" id="row" rowId="123" itemName="rahul"><Label id="lab">123</Label></TableViewRow>
+			<TableViewRow id="row" rowId="123" itemName="rahul"><Label id="lab">123</Label>
+		<View backgroundImage="/appicon.png" width="20" height="20" left="20"></View>
+			<View backgroundImage="/appicon.png" width="20" height="20" right="20"></View></TableViewRow>
 	<!-- <TableViewRow ><Label>1234</Label></TableViewRow> -->
+	<!-- <ListSection id="row" rowId="123" itemName="rahul"><ListItem id="lab"></ListItem></ListSection> -->
 </Alloy>
